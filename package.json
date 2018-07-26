@@ -1,0 +1,11 @@
+{
+  "name": "wisvch-sample-committee-website",
+  "description": "A sample website for W.I.S.V. 'Christiaan Huygens' committees.",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.2"
+  },
+  "devDependencies": {
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "wct-browser-legacy": "^1.0.0"
+  }
+}

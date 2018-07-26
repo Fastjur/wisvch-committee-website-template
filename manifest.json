@@ -1,0 +1,7 @@
+{
+  "name": "wisvch-sample-committee-website",
+  "short_name": "wisvch-sample-committee-website",
+  "description": "A sample website for W.I.S.V. &#39;Christiaan Huygens&#39; committees.",
+  "start_url": "/",
+  "display": "standalone"
+}
